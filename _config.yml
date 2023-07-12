@@ -1,9 +1,12 @@
 title: Tazzen Ross # your name (or website title) here
 logo: "/images/mypic.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
+  Hi! My name is Tazz Ross and I am currently pursuing a Master of Science in Business Analytics. 
+  I have always been passionate about solving problems through an analytical lense, and through my 
+  course work I have been equipped with the tools and knowledge to be able to do this in a business 
+  enviroment. As an aspiring data scientist I am proficient with multiple tools such as Python, SQL, 
+  R, and Microsoft Suite. My skill set includes but is not limited to data ETL, visualization, 
+  machine learning models, deep learning, unstructured data manipulation, and database management.
   <br><br>
   <a href="https://www.linkedin.com/in/tazzen-ross-2a980b23a/">View My LinkedIn Profile</a> 
   
