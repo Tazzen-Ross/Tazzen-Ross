@@ -5,7 +5,7 @@
 ### Machine Learning
 
 [Supervised Learning: Loan Status Prediction](https://github.com/Tazzen-Ross/Loan-Prediction-Analysis)
-<img src="C:\Users\tkross\Downloads\signing.png"/>
+<img src="images/signing.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
