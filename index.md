@@ -40,7 +40,7 @@
     </td>
     <!-- This is the cell for the image -->
     <td>
-      <img src="images/american-football.jpg?raw=true" width="200"/>
+      <img src="images/american-football.jpg?raw=true" width="100"/>
     </td>
   </tr>
 </table>
