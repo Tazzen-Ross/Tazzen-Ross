@@ -12,7 +12,7 @@
     </td>
     <!-- This is the cell for the image -->
     <td>
-      <img src="images/signing.jpg?raw=true" width="200"/>
+      <img src="images/signing.jpg?raw=true" width="150"/>
     </td>
   </tr>
 </table>
@@ -25,7 +25,7 @@
     </td>
     <!-- This is the cell for the image -->
     <td>
-      <img src="images/segment.jpg?raw=true" width="200"/>
+      <img src="images/segment.jpg?raw=true" width="150"/>
     </td>
   </tr>
 </table>
