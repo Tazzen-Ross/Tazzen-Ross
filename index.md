@@ -32,10 +32,15 @@
 
 ### Data Analysis
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
+<table>
+  <tr>
+    <!-- This is the cell for the text -->
+    <td style="vertical-align: middle;">
+      <a href="https://github.com/Tazzen-Ross/Clutchness-Analysis">QB Clutch Analysis Using SQLite</a>
+    </td>
+    <!-- This is the cell for the image -->
+    <td>
+      <img src="images/american-football.jpg?raw=true" width="200"/>
+    </td>
+  </tr>
+</table>
