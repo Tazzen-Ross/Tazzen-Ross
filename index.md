@@ -12,17 +12,23 @@
     </td>
     <!-- This is the cell for the image -->
     <td>
-      <img src="images/signing.jpg?raw=true" width="300"/>
+      <img src="images/signing.jpg?raw=true" width="200"/>
     </td>
   </tr>
 </table>
 
----
-
-[Unsupervised Learning: Customer Segmentation](https://github.com/Tazzen-Ross/Automobile-Customer-Segmenation)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
+<table>
+  <tr>
+    <!-- This is the cell for the text -->
+    <td style="vertical-align: middle;">
+      <a href="https://github.com/Tazzen-Ross/Automobile-Customer-Segmenation">Unsupervised Learning: Customer Segmentation</a>
+    </td>
+    <!-- This is the cell for the image -->
+    <td>
+      <img src="images/segment.jpg?raw=true" width="200"/>
+    </td>
+  </tr>
+</table>
 
 ### Data Analysis
 
