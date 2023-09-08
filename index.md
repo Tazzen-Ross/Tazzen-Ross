@@ -25,7 +25,7 @@
     </td>
     <!-- This is the cell for the image -->
     <td>
-      <img src="images/segment.jpg?raw=true" width="150"/>
+      <img src="images/microphone.jpg?raw=true" width="150"/>
     </td>
   </tr>
 </table>
