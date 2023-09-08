@@ -21,6 +21,19 @@
   <tr>
     <!-- This is the cell for the text -->
     <td style="vertical-align: middle;">
+      <a href="https://github.com/Tazzen-Ross/Podcast-Recommendation-Engine">Podcast Recommendation Engine</a>
+    </td>
+    <!-- This is the cell for the image -->
+    <td>
+      <img src="images/segment.jpg?raw=true" width="150"/>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <!-- This is the cell for the text -->
+    <td style="vertical-align: middle;">
       <a href="https://github.com/Tazzen-Ross/Automobile-Customer-Segmenation">Unsupervised Learning: Customer Segmentation</a>
     </td>
     <!-- This is the cell for the image -->
